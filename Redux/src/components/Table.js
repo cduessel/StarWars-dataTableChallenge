@@ -69,5 +69,3 @@ Table.propTypes = {
   filterByName: propTypes.string.isRequired,
   filterByNumericValues: propTypes.arrayOf(propTypes.object).isRequired,
 };
-
-// Disscussed and did some pair programing with Paulo D'Andrea on this code

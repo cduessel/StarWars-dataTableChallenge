@@ -27,7 +27,6 @@ class SearchBar extends Component {
     );
   }
 }
-// {event => this.props.filterByName({ name: event.target.value })}
 
 const mapDispatchToProps = (dispatch) => ({
   handleChangeName: (event) => dispatch(filterByName(event.target.value)),

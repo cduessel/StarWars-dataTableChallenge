@@ -22,11 +22,6 @@ const INITIAL_STATE = {
     name: '',
   },
   filterByNumericValues: [],
-  //  {
-  //    column: 'population',
-  //    comparison: 'maior que',
-  //    value: '100000',
-  //  }
 };
 
 function filters(state = INITIAL_STATE, action) {
@@ -56,10 +51,3 @@ function filters(state = INITIAL_STATE, action) {
 }
 
 export default filters;
-// {
-//     filters: {
-//       filterByName: {
-//         name: 'Tatoo'
-//       }
-//     }
-//   }

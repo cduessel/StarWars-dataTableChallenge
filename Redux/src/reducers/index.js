@@ -59,6 +59,3 @@ export function fetchReducer(state = initialState, action) {
 
 const rootReducer = combineReducers({ fetchReducer, filters });
 export default rootReducer;
-
-// Disscussed and did some pair programing with Paulo D'Andrea on this code
-// For the thunk used/got inspired by "doguinho app" and "game of thrones App" of the TrybeCourse
