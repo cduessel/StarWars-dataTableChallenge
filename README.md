@@ -1,5 +1,5 @@
 # starWars-dataTable
-React contextApi+Hooks vs Redux Trybe Challenge
+React contextApi+Hooks vs Redux - a Trybe Challenge
 
 A challenge from Trybe School in which we had to make the "same" react app once using contextApi and Hooks and another with redux.
 
